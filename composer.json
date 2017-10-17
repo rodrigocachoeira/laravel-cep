@@ -1,0 +1,14 @@
+{
+    "name": "orion/cep",
+    "description": "Serviço que realiza consultas de informações referente ao CEP em um WebService",
+    "require": {
+        "guzzlehttp/guzzle": "~6.0",
+        "fzaninotto/faker": "~1.4"
+    },
+    "authors": [
+        {
+            "name": "Rodrigo Cachoeira",
+            "email": "rodrigocachoeira11@gmail.com"
+        }
+    ]
+}
